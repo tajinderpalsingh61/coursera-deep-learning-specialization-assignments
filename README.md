@@ -1,1 +1,1 @@
-# -coursera-deep-learning-specialization-assignments
+# coursera-deep-learning-specialization-assignments
